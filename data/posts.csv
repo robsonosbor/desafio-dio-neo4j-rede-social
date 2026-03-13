@@ -1,0 +1,4 @@
+id,content,timestamp,author
+101,"Hello world",2026-03-12T10:00:00,1
+102,"Graph databases are cool",2026-03-12T11:00:00,2
+103,"Neo4j challenge",2026-03-12T12:00:00,1

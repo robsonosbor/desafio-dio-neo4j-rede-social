@@ -1,4 +1,4 @@
-# Desafio Neo4j
+# Desafio DIO - Neo4j
 
 ## Contexto
 Este repositório contém um projeto educacional simples que demonstra o uso do banco de dados de grafos **Neo4j**. A ideia é modelar um pequeno sistema de rede social onde usuários se conectam, criam posts, curtem e comentam.
