@@ -44,12 +44,7 @@ O grafo contém os seguintes labels e relacionamentos:
 
 ![Modelo de Grafo](images/model.png)
 
-> **Diagrama exportado**: a imagem acima foi gerada com
-> `CALL db.schema.visualization()` no Neo4j Browser e salva em
-> `images/model.png`.
->
-> Opcionalmente, para fins de documentação simples você pode usar
-> Mermaid com nós circulares:
+> **Diagrama exportado**: Imagem gerada com Mermaid com nós circulares:
 >
 > ```mermaid
 > graph TD
